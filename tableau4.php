@@ -2,9 +2,9 @@
 
 $marque = array("volvo","BMW","Toyota");
 
-for ($i=0; $i<count($marque); $i=++;)
+for ($j=0; $j<count($marque); $j=++;)
 {
-	echo "Achat de : " . $marque[$i] . "<br/>";
+	echo "Achat de : " . $marque[$j] . "<br/>";
 }
 
 ?>
